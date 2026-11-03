@@ -1,8 +1,8 @@
 name: marketing-manager
-version: 1.0.0
+version: 1.0.1
 description: 'The marketing manager of an Italian SMB: learns the company first, then writes its posts,
-  emails and ads in fluent Italian, keeps its visual identity, makes images and beautiful landing pages,
-  and reports what works every week.'
+  emails and ads in fluent Italian, keeps its visual identity, designs graphics and beautiful landing
+  pages, and reports what works every week.'
 author: nadicode
 license: Proprietary
 distribution_owned:
