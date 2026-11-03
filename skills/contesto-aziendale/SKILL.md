@@ -41,7 +41,7 @@ listino, logo, foto, presentazioni, email inviate): vale più di dieci domande.
 In cima: versione, data dell'ultimo aggiornamento, chi l'ha confermato.
 
 1. **L'azienda.** Ragione sociale, partita IVA, sede e zona servita, orari,
-   anni di attività, persone, settore, cosa la rende sé stessa.
+   anni di attività, persone, settore, cosa la distingue.
 2. **Offerta e prezzi.** Prodotti o servizi principali, prezzo o fascia, cosa
    è incluso, stagionalità, margini se il titolare li condivide.
 3. **Clienti.** Chi compra davvero (privati o aziende, età, zona, settore), chi
@@ -88,6 +88,13 @@ Proponi la riga al titolare e scrivila dopo il suo sì.
 Tieni il conto dei giri di correzione per ogni lavoro approvato: è la misura
 di quanto stai imparando la sua voce. Se i giri non scendono, rileggi le
 lezioni e gli esempi di voce prima del prossimo lavoro.
+
+## Dove arrivano i risultati
+
+Al primo incontro chiedi dove vuole ricevere il report della settimana e le
+proposte da approvare (un canale di Alveare, Telegram, WhatsApp, l'email) e
+imposta la destinazione delle tue attività pianificate: senza destinazione,
+il risultato si vede solo in **Attività pianificate**.
 
 ## Aggiornare
 

@@ -56,20 +56,27 @@ consulente privacy o legale prima di pubblicare.
   disiscriversi in ogni messaggio. Non vale per WhatsApp né per contatti
   comprati o trovati online. Mai liste acquistate.
 - **Telefonate commerciali**: chi è iscritto al Registro Pubblico delle
-  Opposizioni (anche per i cellulari) non si chiama senza consenso.
+  Opposizioni (anche per i cellulari) non si chiama senza consenso, e un
+  numero di cellulare che non è in un elenco pubblico si chiama solo con il
+  consenso.
 - **Cookie e pixel**: banner conforme alle linee guida del Garante (accetta e
   rifiuta con la stessa evidenza, niente cookie di profilazione prima della
   scelta). Pixel e strumenti di tracciamento pubblicitario solo dopo il
   consenso.
-- **Sconti** (art. 17-bis del Codice del consumo): ogni annuncio di riduzione di
-  prezzo indica il prezzo più basso applicato nei 30 giorni precedenti, e lo
-  sconto si calcola su quello, non sul listino.
+- **Sconti sui prodotti** (art. 17-bis del Codice del consumo): ogni annuncio
+  di riduzione di prezzo di un bene indica il prezzo più basso applicato nei 30
+  giorni precedenti, e lo sconto si calcola su quello, non sul listino. Non si
+  applica ai servizi; prodotti deperibili, offerte personali e programmi
+  fedeltà hanno regole proprie: verifica le FAQ del Ministero.
 - **Pubblicità ingannevole e comparativa** (Codice del consumo): niente
   promesse non dimostrabili, niente "il migliore" o "il più economico" senza
   prove, confronti con i concorrenti solo su dati verificabili.
-- **Recensioni**: mai recensioni false, comprate o scritte da chi lavora in
-  azienda; mai nascondere selettivamente quelle negative presentandole come
-  complete.
+- **Recensioni** (anche L. 34/2026, in vigore dal 7 aprile 2026): mai
+  recensioni false, comprate o scritte da chi lavora in azienda; vale solo la
+  recensione di chi ha davvero comprato o usato il prodotto o il servizio,
+  entro 30 giorni; mai sconti, omaggi o vantaggi in cambio di una recensione;
+  mai nascondere selettivamente quelle negative presentandole come complete.
+  Quando chiedi una recensione, chiedila presto e senza incentivi.
 - **Influencer e contenuti sponsorizzati**: la pubblicità deve essere
   riconoscibile (per esempio "pubblicità", "adv", "sponsorizzato" ben visibili).
   Dal 2025 l'AGCOM ha regole specifiche per gli influencer, più severe per
@@ -81,8 +88,10 @@ consulente privacy o legale prima di pubblicare.
 - **Immagini e musica**: solo materiale con i diritti (foto proprie, banche
   immagini con licenza, immagini generate) e liberatorie per le persone
   riconoscibili, soprattutto dipendenti e minori.
-- **Dati obbligatori sul sito**: ragione sociale, sede, partita IVA, PEC o
-  contatti, informativa privacy e cookie.
+- **Dati obbligatori sul sito**: partita IVA nella home page; per le società
+  anche sede, ufficio e numero di iscrizione al Registro delle imprese (REA),
+  e per srl e spa il capitale sociale versato e l'eventuale socio unico;
+  informativa privacy e cookie. La PEC non è obbligatoria sul sito.
 
 ## Scrivere in italiano
 

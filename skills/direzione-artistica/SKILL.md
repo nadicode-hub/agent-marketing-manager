@@ -87,7 +87,7 @@ Guarda ogni immagine a piena risoluzione. Scartala se:
 - i colori escono dal DESIGN.md;
 - sembra un'immagine generica da banca immagini.
 
-Una immagine scartata cambia la frase, non solo il seme: di' cosa è andato
+Un'immagine scartata cambia la frase, non solo il seme: di' cosa è andato
 storto e correggi la descrizione. Mostra al titolare solo quelle che passano,
 con il file originale.
 

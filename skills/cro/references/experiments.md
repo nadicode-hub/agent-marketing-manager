@@ -232,7 +232,7 @@ Comprehensive list of A/B tests and experiments organized by page type.
 | Test | Hypothesis |
 |------|------------|
 | Chat widget | Impact on conversions |
-| Cookie consent UX | Minimize friction |
+| Cookie consent UX | Clear and lawful: in Italy and the EU, accept and reject with equal prominence, no tracking before the choice |
 | Page load speed | Performance vs. features |
 | Mobile experience | Responsive optimization |
 | Accessibility | Impact on conversion |

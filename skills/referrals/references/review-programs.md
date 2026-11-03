@@ -39,7 +39,7 @@ Draft a short neutral request that identifies the product, links to the real pla
 
 Use the platform's supported invitation method and the user's authorized contact channel. Deduplicate past invitations, exclude opt-outs/ineligible relationships, and specify a bounded reminder plan. Do not silently turn a draft into an automated send. Existing authorization can cover the requested action; if sending or configuration is not authorized, present the concrete draft and obtain permission.
 
-**Default to no incentive.** Google Maps and Trustpilot prohibit review incentives. G2 and Capterra have specific permitted-program, disclosure, and eligibility requirements; use current rules rather than a universal gift-card amount. Never tie payment, discounts, gifts, or service recovery to the review's sentiment or removal. Disclosure does not make a prohibited incentive acceptable.
+**In Italy, no incentive at all:** since 7 April 2026 (L. 34/2026) a review is valid only from someone who really used the product or service, within 30 days, and never in exchange for discounts or other benefits; buying or selling reviews is banned. **Elsewhere, default to no incentive.** Google Maps and Trustpilot prohibit review incentives. G2 and Capterra have specific permitted-program, disclosure, and eligibility requirements; use current rules rather than a universal gift-card amount. Never tie payment, discounts, gifts, or service recovery to the review's sentiment or removal. Disclosure does not make a prohibited incentive acceptable.
 
 ## Respond to a Review
 

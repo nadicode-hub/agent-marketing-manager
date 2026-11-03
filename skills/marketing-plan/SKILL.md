@@ -23,20 +23,11 @@ Invoke this skill when:
 
 **Do not use** when the user wants a tactical execution document for a single channel (use the channel-specific skill instead — `emails`, `ads`, `seo-audit`, `onboarding`, etc.), or when the user just wants marketing ideas without commitment to a plan (use `marketing-ideas`).
 
-## How this skill is invoked
+## Where the plan lives
 
-```
-/marketing-plan {client-name-or-domain}
-```
+For nadicode's Marketing Manager Agent: the business is the one described in `marketing/contesto.md` in your working folder, and the plan and its progress live in `marketing/piano/` (a `progress.md` there takes the place of `~/marketing-plans/{client-slug}/progress.md` wherever the references name it). The person asks for a plan in their own words; never tell them to type a command.
 
-Examples:
-- `/marketing-plan quietude.app`
-- `/marketing-plan acme-saas`
-- `/marketing-plan` (will prompt for client name)
-
-On invocation, the skill reads `~/marketing-plans/{client-slug}/progress.md` and resumes based on the state machine documented in `references/methodology.md` Step 1.1.2 (fresh → INIT → REVIEW → FINALIZE → finalized). Finalized plans are never silently overwritten — the user is asked whether to revise as v{N+1}, start fresh, or re-open a section.
-
-**Path safety.** Build `{client-slug}` only by slugifying the client name to lowercase `[a-z0-9-]` (strip everything else); reject `..`, `/`, and absolute paths, and never read or write outside `~/marketing-plans/`. On a shared machine this keeps one client's plan — and their data — from leaking into another client's context.
+**For an Italian SMB**, the startup material in the references (funding stages, ARR, churn, fractional-CMO engagements, the SaaS example) does not apply as written. Measure what a small business lives on: calls, WhatsApp messages, quote requests, bookings, shop visits, average receipt, returning customers, cost per contact. Size the budget on what the owner states in `marketing/contesto.md`, follow `marketing-italia` for channels and law, and write the plan in Italian.
 
 ## The three phases
 
