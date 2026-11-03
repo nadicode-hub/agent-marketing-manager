@@ -1,0 +1,99 @@
+{
+  "jobs": [
+    {
+      "id": "cb02cbc2f04b",
+      "name": "Report marketing della settimana",
+      "prompt": "Prepara il report marketing della settimana per il titolare, come dice la skill metodo-marketing: i numeri che puoi leggere confrontati con la settimana prima (dillo quando un dato non è accessibile), il lavoro fatto e quello che aspetta un'approvazione, e tre azioni per la prossima settimana con costo e cosa serve dal titolare. Breve, leggibile dal telefono.",
+      "skills": [
+        "metodo-marketing",
+        "contesto-aziendale"
+      ],
+      "skill": "metodo-marketing",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * 1",
+        "display": "0 9 * * 1"
+      },
+      "schedule_display": "0 9 * * 1",
+      "repeat": {
+        "times": null,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-11-03T00:40:40.597911+01:00",
+      "next_run_at": "2026-11-09T09:00:00+01:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "last_delivery_unverified": null,
+      "last_failure": null,
+      "failure_streak": 0,
+      "deliver": "local",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null
+    },
+    {
+      "id": "d9405711e15b",
+      "name": "Piano dei contenuti del mese",
+      "prompt": "Proponi il piano dei contenuti del mese prossimo: date e ricorrenze utili per questa azienda in Italia, post per i canali che usa, una newsletter se c'è una lista con consenso, e le immagini che serviranno. Una tabella con data, canale, idea, compito persuasivo e stato. Niente va pubblicato: è una proposta da approvare.",
+      "skills": [
+        "content-strategy",
+        "social",
+        "marketing-italia",
+        "contesto-aziendale"
+      ],
+      "skill": "content-strategy",
+      "model": null,
+      "provider": null,
+      "base_url": null,
+      "script": null,
+      "no_agent": false,
+      "monitor_script": null,
+      "monitor_url": null,
+      "monitor_state": null,
+      "context_from": null,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 10 25 * *",
+        "display": "0 10 25 * *"
+      },
+      "schedule_display": "0 10 25 * *",
+      "repeat": {
+        "times": null,
+        "completed": 0
+      },
+      "enabled": true,
+      "state": "scheduled",
+      "paused_at": null,
+      "paused_reason": null,
+      "created_at": "2026-11-03T00:40:40.612841+01:00",
+      "next_run_at": "2026-11-25T10:00:00+01:00",
+      "last_run_at": null,
+      "last_status": null,
+      "last_error": null,
+      "last_delivery_error": null,
+      "last_delivery_unverified": null,
+      "last_failure": null,
+      "failure_streak": 0,
+      "deliver": "local",
+      "origin": null,
+      "enabled_toolsets": null,
+      "workdir": null
+    }
+  ],
+  "updated_at": "2026-11-03T00:40:40.618646+01:00"
+}

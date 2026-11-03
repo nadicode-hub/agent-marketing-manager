@@ -1,0 +1,32 @@
+name: marketing-manager
+version: 1.0.0
+description: 'The marketing manager of an Italian SMB: learns the company first, then writes its posts,
+  emails and ads in fluent Italian, keeps its visual identity, makes images and beautiful landing pages,
+  and reports what works every week.'
+author: nadicode
+license: Proprietary
+distribution_owned:
+- SOUL.md
+- config.yaml
+- cron/jobs.json
+- skills/ad-creative
+- skills/ads
+- skills/ai-seo
+- skills/competitor-profiling
+- skills/content-strategy
+- skills/contesto-aziendale
+- skills/copy-editing
+- skills/copywriting
+- skills/cro
+- skills/customer-research
+- skills/design-md
+- skills/direzione-artistica
+- skills/emails
+- skills/landing-page
+- skills/marketing-italia
+- skills/marketing-plan
+- skills/metodo-marketing
+- skills/referrals
+- skills/schema
+- skills/seo-audit
+- skills/social
